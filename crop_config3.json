@@ -1,0 +1,32 @@
+{
+    "im1.jpg": {
+        "top": 671,
+        "bottom": 483,
+        "left": 950,
+        "right": 843
+    },
+    "im2.jpg": {
+        "top": 667,
+        "bottom": 501,
+        "left": 933,
+        "right": 860
+    },
+    "im3.jpg": {
+        "top": 620,
+        "bottom": 507,
+        "left": 792,
+        "right": 987
+    },
+    "im4.jpg": {
+        "top": 659,
+        "bottom": 452,
+        "left": 839,
+        "right": 913
+    },
+    "im5.jpg": {
+        "top": 624,
+        "bottom": 493,
+        "left": 772,
+        "right": 992
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1.jpg": {
+        "top": 624,
+        "bottom": 509,
+        "left": 780,
+        "right": 995
+    },
+    "2.jpg": {
+        "top": 649,
+        "bottom": 445,
+        "left": 827,
+        "right": 944
+    },
+    "3.jpg": {
+        "top": 616,
+        "bottom": 525,
+        "left": 600,
+        "right": 1203
+    },
+    "4.jpg": {
+        "top": 655,
+        "bottom": 488,
+        "left": 966,
+        "right": 846
+    }
+}
