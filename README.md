@@ -75,9 +75,9 @@ The script will:
 
 ---
 
-## ⚙️ Tuning for Your Bottle (The "Taper" Fix)
+## ⚙️ Tuning for the Bottle (The "Taper" Fix)
 
-If your bottle is not a perfect cylinder (i.e., it is wider at the top than the bottom), standard stitching will fail at the bottom.
+If the bottle is not a perfect cylinder (i.e., it is wider at the top than the bottom), standard stitching will fail at the bottom.
 
 Inside `stitching_script.py`, adjust the `TAPER_AMOUNT` variable:
 
